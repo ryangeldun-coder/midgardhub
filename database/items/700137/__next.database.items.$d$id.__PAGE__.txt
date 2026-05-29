@@ -1,0 +1,382 @@
+1:"$Sreact.fragment"
+8:I[25138,["/_next/static/chunks/0u~k3tbweesc6.js","/_next/static/chunks/09t2isllljna7.js","/_next/static/chunks/00-csyj9a6t-x.js","/_next/static/chunks/13340i7529gkl.js"],"Breadcrumbs"]
+9:I[27430,["/_next/static/chunks/0u~k3tbweesc6.js","/_next/static/chunks/09t2isllljna7.js","/_next/static/chunks/00-csyj9a6t-x.js","/_next/static/chunks/13340i7529gkl.js"],"default"]
+b:I[97367,["/_next/static/chunks/0u~k3tbweesc6.js","/_next/static/chunks/09t2isllljna7.js","/_next/static/chunks/00-csyj9a6t-x.js"],"OutletBoundary"]
+c:"$Sreact.suspense"
+2:T4bf5,[{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Database","item":"https://midgardhub.com/database/items"},{"@type":"ListItem","position":2,"name":"Items","item":"https://midgardhub.com/database/items"},{"@type":"ListItem","position":3,"name":"It has greater draw strength than the original Great Bow, making it difficult to handle.","item":"https://midgardhub.com/database/items/700137"}]},{"@context":"https://schema.org","@type":"Product","name":"It has greater draw strength than the original Great Bow, making it difficult to handle.","image":"https://assets.twroz.wiki/images/items/700137.gif","description":"DEX +5, ATK +10\nGuild Medal\nA highly valuable token obtainable from the Guild Hideout Dungeon. Used for item exchanges and enchantments.\nBoost: Storm Gust Lv.1\nA gemstone that can imbue special power into Advanced Guild weapons.\nForce: Storm Gust can be imbued.\nIncreases damage dealt with Storm Gust by 7%.\nBoost: Meteor Storm Lv.1\nForce: Meteor Storm can be imbued.\nIncreases damage dealt with Meteor Storm by 7%.\nBoost: Lord of Vermilion Lv.1\nForce: Lord of Vermilion can be imbued.\nIncreases damage dealt with Lord of Vermilion by 7%.\nBoost: Magnus Exorcismus Lv.1\nForce: Magnus Exorcismus can be imbued.\nIncreases damage dealt with Magnus Exorcismus by 7%.\nBoost: Meteor Assault Lv.1\nForce: Meteor Assault can be imbued.\nIncreases damage dealt with Meteor Assault by 7%.\nBoost: Clashing Spiral Lv.1\nForce: Clashing Spiral can be imbued.\nIncreases damage dealt with Clashing Spiral by 7%.\nBoost: Acid Bomb Lv.1\nForce: Acid Bomb can be imbued.\nIncreases damage dealt with Acid Bomb by 7%.\nBoost: Pierce Lv.1\nForce: Pierce can be imbued.\nIncreases damage dealt with Pierce by 7%.\nBoost: Bowling Bash Lv.1\nForce: Bowling Bash can be imbued.\nIncreases damage dealt with Bowling Bash by 7%.\nBoost: Waterball Lv.1\nForce: Waterball can be imbued.\nIncreases damage dealt with Waterball by 7%.\nBoost: Sonic Blow Lv.1\nForce: Sonic Blow can be imbued.\nIncreases damage dealt with Sonic Blow by 7%.\nBoost: Rapid Smiting Lv.1\nForce: Rapid Smiting can be imbued.\nIncreases damage dealt with Rapid Smiting by 7%.\nBoost: Shield Boomerang Lv.1\nForce: Shield Boomerang can be imbued.\nIncreases damage dealt with Shield Boomerang by 7%.\nBoost: Holy Cross Lv.1\nForce: Holy Cross can be imbued.\nIncreases damage dealt with Holy Cross by 7%.\nBoost: Falcon Assault Lv.1\nForce: Falcon Assault can be imbued.\nIncreases damage dealt with Falcon Assault by 7%.\nBoost: Blitz Beat Lv.1\nForce: Blitz Beat can be imbued.\nIncreases damage dealt with Blitz Beat by 7%.\nBoost: Guillotine Fist Lv.1\nForce: Guillotine Fist can be imbued.\nIncreases damage dealt with Guillotine Fist by 7%.\nBoost: Occult Impaction Lv.1\nForce: Occult Impaction can be imbued.\nIncreases damage dealt with Occult Impaction by 7%.\nBoost: Arrow Vulcan Lv.1\nForce: Arrow Vulcan can be imbued.\nIncreases damage dealt with Arrow Vulcan by 7%.\nBoost: Double Strafe Lv.1\nForce: Double Strafe can be imbued.\nIncreases damage dealt with Double Strafe by 7%.\nBoost: Focused Arrow Strike Lv.1\nForce: Focused Arrow Strike can be imbued.\nIncreases damage dealt with Focused Arrow Strike by 7%.\nBoost: Napalm Vulcan Lv.1\nForce: Napalm Vulcan can be imbued.\nIncreases damage dealt with Napalm Vulcan by 7%.\nBoost: Gravitation Field Lv.1\nForce: Gravitational Field can be imbued.\nIncreases damage dealt with Gravitational Field by 7%.\nTolerance: Storm Gust Lv.1\nA gemstone that can imbue special power into Advanced Guild armor.\nResist: Storm Gust can be imbued.\nReduces damage received from Storm Gust by 15%.\nTolerance: Meteor Storm Lv.1\nResist: Meteor Storm can be imbued.\nReduces damage received from Meteor Storm by 15%.\nTolerance: Lord of Vermilion Lv.1\nResist: Lord of Vermilion can be imbued.\nReduces damage received from Lord of Vermilion by 15%.\nTolerance: Magnus Exorcismus Lv.1\nResist: Magnus Exorcismus can be imbued.\nReduces damage received from Magnus Exorcismus by 15%.\nTolerance: Meteor Assault Lv.1\nResist: Meteor Assault can be imbued.\nReduces damage received from Meteor Assault by 15%.\nTolerance: Clashing Spiral Lv.1\nResist: Clashing Spiral can be imbued.\nReduces damage received from Clashing Spiral by 15%.\nTolerance: Acid Bomb Lv.1\nResist: Acid Bomb can be imbued.\nReduces damage received from Acid Bomb by 15%.\nTolerance: Pierce Lv.1\nResist: Pierce can be imbued.\nReduces damage received from Pierce by 15%.\nTolerance: Bowling Bash Lv.1\nResist: Bowling Bash can be imbued.\nReduces damage received from Bowling Bash by 15%.\nTolerance: Waterball Lv.1\nResist: Waterball can be imbued.\nReduces damage received from Waterball by 15%.\nTolerance: Sonic Blow Lv.1\nResist: Sonic Blow can be imbued.\nReduces damage received from Sonic Blow by 15%.\nTolerance: Rapid Smiting Lv.1\nResist: Rapid Smiting can be imbued.\nReduces damage received from Rapid Smiting by 15%.\nTolerance: Shield Boomerang Lv.1\nResist: Shield Boomerang can be imbued.\nReduces damage received from Shield Boomerang by 15%.\nTolerance: Holy Cross Lv.1\nResist: Holy Cross can be imbued.\nReduces damage received from Holy Cross by 15%.\nTolerance: Falcon Assault Lv.1\nResist: Falcon Assault can be imbued.\nReduces damage received from Falcon Assault by 15%.\nTolerance: Blitz Beat Lv.1\nResist: Blitz Beat can be imbued.\nReduces damage received from Blitz Beat by 15%.\nTolerance: Guillotine Fist Lv.1\nResist: Guillotine Fist can be imbued.\nReduces damage received from Guillotine Fist by 15%.\nTolerance: Occult Impaction Lv.1\nResist: Occult Impaction can be imbued.\nReduces damage received from Occult Impaction by 15%.\nTolerance: Arrow Vulcan Lv.1\nResist: Arrow Vulcan can be imbued.\nReduces damage received from Arrow Vulcan by 15%.\nTolerance: Double Strafe Lv.1\nResist: Double Strafe can be imbued.\nReduces damage received from Double Strafe by 15%.\nTolerance: Focused Arrow Strike Lv.1\nResist: Focused Arrow Strike can be imbued.\nReduces damage received from Focused Arrow Strike by 15%.\nTolerance: Napalm Vulcan Lv.1\nResist: Napalm Vulcan can be imbued.\nReduces damage received from Napalm Vulcan by 15%.\nTolerance: Gravitation Field Lv.1\nResist: Gravitational Field can be imbued.\nReduces damage received from Gravitational Field by 15%.\nTolerance: Critical Lv.1\nResist: Critical can be imbued.\nReduces Critical Damage from basic attacks received from players by 15%.\nShining Solid Ore\nOre required to craft Shining Armor.\nRecovery Potion\nA restorative potion that heals all wounds the moment it is taken.\nAs long as you’re not dead, it can mend any injury.\nCorrelation Between Magic and Power\nOne of the books that Lucian asked to be found.\nLacandra's Marvelous Spellbook\nHow to Enhance Magical Ability\nNecklace Box\nA box containing a necklace that Salih Hamid was scheduled to deliver to Sahario, the investigation unit leader.\nLetter from D\nA letter sealed tightly by a mysterious woman known only as “D.”\nThe seal on the envelope bears the letter D, concealing the sender’s true identity.\n[Recipient: Assassin Guild Elder]\nQueen’s Letter\nSealed tightly with a letter from Catherine E. Geoborg, Queen of the Rune-Midgarts Kingdom.\nThe seal bears the letter “D,” used to conceal the true identity of the sender.\n[Recipient : Assassin Guild Elder]\nElder's Letter\nFirmly sealed with the Assassin Guild’s Elder's Letter.\nThe seal on the envelope bears the mark of the Assassin Guild.\n[Recipient: D]\nContaminated Shell Meat\nPrepared from the flesh of a Corrupted Shellfish. It can be eaten in various ways, but if the sand and mud left from its tidal-flat habitat are not thoroughly removed, it may be unpleasant to eat.\nContaminated Claw Meat\nCut from the Claw Meat of a Corrupted Crab.\nClaw Meat is tougher than it looks and tends to clamp down without letting go once it grabs, so handle with care.\nGalapago Cell\nCellular tissue collected for research on Galapago.\nFurseal Cell\nCellular tissue collected for research on Furseal.\nSea-Otter Cell\nCell tissue collected for research on Sea-Otter.\nHalf-Written Letter\nA Half-Written Letter found in a shop that was selling food made from spoiled ingredients.\nDusky Herb\nAn herb used as an ingredient to create a cure for the Comodo Plague.\nHealing Potion\nA potion created to cure the Comodo Plague that has spread throughout the coastal city of Comodo.\nIt is the finest remedy crafted by the priest Britia, dispatched from the Prontera Cathedral.\nDamaged Letter\nA Damaged Letter found in the fortress city of Sandarman.\nThe original seal has been broken, leaving no way to identify the sender.\nEnriched Oridecon\nA delicate ore that protects your precious equipment from harm.\n– When refining a Merchant weapon at +7, the item will not be destroyed even if the attempt fails. However, it cannot be refined above +10. –\n(If the refinement fails, the refine level decreases by 1.)\nEnriched Elunium\n– When refining Merchant armor at +7, the item will not be destroyed even if the attempt fails. However, it cannot be refined above +10. –\nGym Membership\nHD Carnium\nCompressed over an unimaginably long time, its density and strength have grown even higher. It seems even more demanding for armor refinement.\n- When refining armor at +10 or higher, failure will not destroy the armor! -\nHD Bradium\n- When refining Weapon at +10 or higher, failure will not destroy the Weapon! -\nFootprint Effect (Garment)\nEnchant the 4th slot of a Garment Costume to apply an effect.\nFootprint Effect\n<NAVI>[Gruzio Gurmani]<INFO>itemmall,41,48,0,100,0,0</INFO></NAVI>\nWhirlwind Footprint (Garment)\nWhirlwind Footprint\nPurple Star Footprint (Garment)\nPurple Star Footprint\nYellow Star Footprint (Garment)\nYellow Star Footprint\nRed Star Footprint (Garment)\nOcean Week Commemorative Ticket\nA commemorative ticket issued to celebrate the Ocean Week of Sessrumnir.\nPuppy Footprint (Garment)\nPuppy Footprint\nDumpling Footprint (Garment)\nDumpling Footprint\nPanda Basic Footprint (Garment)\nPanda Footprint\nPanda Color Footprint (Garment)\nPanda Color Footprint\nBattle Plush Doll\nFierce energy emanates from the Lunatic Doll. It seems that the “Battle Doll Arbiter” may know something.\nBattle Poring Doll\nFierce energy emanates from the Poring Doll. It seems that the “Battle Doll Arbiter” may know something.\nBattle ChonChon Doll\nFierce energy emanates from the Chonchon Doll. It seems that the “Battle Doll Arbiter” may know something.\nBattle Spore Doll\nFierce energy emanates from the Spore Doll. It seems that the “Battle Doll Arbiter” may know something.\nBattle Mantis Doll\nFierce energy emanates from the Rocker Doll. It seems that the “Battle Doll Arbiter” may know something.\nBattle Monkey Doll\nFierce energy emanates from the Choco Doll. It seems that the “Battle Doll Arbiter” may know something.\nBattle Tanuki Doll\nFierce energy emanates from the Smokie Doll. It seems that the “Battle Doll Arbiter” may know something.\nBattle Munak Doll\nFierce energy emanates from the Munak Doll. It seems that the “Battle Doll Arbiter” may know something.\n[Costume] Unbinding Injector\nYou can use this item by talking to NPC Costume Binding Manager (prontera 251 267).\nConsumes ‘[Costume] Unbinding Injector’ * 1 + ‘Costume (Bound)’ * 1 to revert it back to ‘Costume’ * 1.\n[Costume] Binding Injector\nCan be purchased from NPC Costume Binding Manager (prontera 251 267).\nConsumes ‘[Costume] Binding Injector’ * 1 + one costume to convert it into ‘Costume (Bound)’ * 1.\n2025 Commemorative Coin\nCan be exchanged for a time-limited costume through the designated NPC.\nToothless Footprint\nBouncing Toothless Footprint\nLand Pass (Summer)\nBring this to Land Rideword in Izlude, and it will reveal its hidden secrets.\nBattle Angeling Doll\nA stuffed Angeling radiating a violent aura. It seems that the “Battle Doll Arbiter\n” knows something.\nBattle Deviling Doll\nA stuffed Deviling radiating a violent aura. It seems that the “Battle Doll Arbiter\n★ Chain Forging Token\n★Weapon Crafting [Nagging Old Man] seems to know something.\n★ Stiletto Forging Token\n★ Crossbow Forging Token\n★ Bastard Sword Forging Token\n★ Hammer Forging Token\n★ Wand Forging Token\nImpure Stone\nIt is said that somewhere in Prontera, a special stone known as the [Mysterious Magic Stone] is searching for this item.\nGoblin Coin Shard\nBlacksmith's Blessing Powder\nA pink powder said to be found only near an Anvil used by skilled blacksmiths.\nIt might be worth collecting.\nFierce energy emanates from the Golden ThiefBug Doll. It seems that the ‘Battle Doll Arbiter’ may know something.\n<NAVI>[Battle Doll Arbiter]<INFO>prontera,260,268,0,100,0,0</INFO></NAVI>\nFierce energy emanates from the Phreeoni Doll. It seems that the ‘Battle Doll Arbiter’ may know something.\nFierce energy emanates from the Edgar Doll. It seems that the ‘Battle Doll Arbiter’ may know something.\nFierce energy emanates from the Maya Doll. It seems that the ‘Battle Doll Arbiter’ may know something.\nFierce energy emanates from the Moonlight Flower Doll. It seems that the ‘Battle Doll Arbiter’ may know something.\nFierce energy emanates from the Orc Hero Doll. It seems that the ‘Battle Doll Arbiter’ may know something.\nFierce energy emanates from the Orc Lord Doll. It seems that the ‘Battle Doll Arbiter’ may know something.\n[Golden ThiefBug] Energy Fragment\nA fragment imbued with the power of Golden ThiefBug. Bringing it to the Midgard receptionist [Lucy] might reveal an important clue.\n[Phreeoni] Energy Fragment\nA fragment imbued with the power of Phreeoni. Bringing it to the Midgard receptionist [Lucy] might reveal an important clue.\n[Orc Hero] Energy Fragment\nA fragment imbued with the power of Orc Hero. Bringing it to the Midgard receptionist [Lucy] might reveal an important clue.\n[Orc Lord] Energy Fragment\nA fragment imbued with the power of Orc Lord. Bringing it to the Midgard receptionist [Lucy] might reveal an important clue.\n[Moonlight Flower] Energy Fragment\nA fragment imbued with the power of Moonlight Flower. Bringing it to the Midgard receptionist [Lucy] might reveal an important clue.\n[Maya] Energy Fragment\nA fragment imbued with the power of Maya. Bringing it to the Midgard receptionist [Lucy] might reveal an important clue.\n[Eddga] Energy Fragment\nA fragment imbued with the power of Edgar. Bringing it to the Midgard receptionist [Lucy] might reveal an important clue.\nJeremy’s Beauty Coupon III\nStyling Shop exclusive Beauty Coupon III.\nHorn Wrapped in Flames\nA fragment of the Sacred Relic—Sigrun's Wings of Eternity.\nCrafted by the Dwarven artisan ‘Brukk’.\nMask Wrapped in Flames\nWood Wrapped in Flames\nCrystal Wrapped in Flames\nRope Wrapped in Flames\nLiquid Wrapped in Flames\nOre Wrapped in Flames\nSnake Hair Wrapped in Flames\nRunestone Wrapped in Flames\nFeather Wrapped in Flames\n★ Book Crafting Token\nCollect a certain amount and bring them to <NAVI>[Nagging Old Man]<INFO>prontera,272,260,0,100,0,0</INFO></NAVI> to activate the weapon.\n★ Slayer Forging Token\n★ Ring Pommel Saber Forging Token\n★ Great Bow Forging Token\n★ Smasher Forging Token\nBattle Osiris Doll\nFierce energy emanates from the Osiris Doll. It seems that the ‘Battle Doll Arbiter’ may know something.\nBattle Amon Ra Doll\nFierce energy emanates from the Amon Ra Doll. It seems that the ‘Battle Doll Arbiter’ may know something.\n[Osiris] Energy Fragment\nA fragment imbued with the power of Osiris. Bringing it to the Midgard receptionist [Lucy] might reveal an important clue.\n<NAVI>[Lucy]<INFO>prtin,45,102,0,100,0,0</INFO></NAVI>\n[Amon Ra] Energy Fragment\nA fragment imbued with the power of Amon Ra. Bringing it to the Midgard receptionist [Lucy] might reveal an important clue.\nBattle Drake Doll\nFierce energy emanates from the Drake Doll. It seems that the ‘Battle Doll Arbiter’ may know something.\nBattle Tao Gunka Doll\nFierce energy emanates from the Tao Gunka Doll. It seems that the ‘Battle Doll Arbiter’ may know something.\n[Drake] Energy Fragment\nA fragment imbued with the power of Drake. Bringing it to the Midgard receptionist [Lucy] might reveal an important clue.\n[Tao Gunka] Energy Fragment\nA fragment imbued with the power of Tao Gunka. Bringing it to the Midgard receptionist [Lucy] might reveal an important clue.\nCard Coin\nA coin filled with dreams—take it with you and set off in search of rare treasures!\nGuild Emblem\nA token representing the strongest guild.\n[Quest] Slightly Worn Poring Doll\nA heartfelt gift prepared by a father for his daughter.\nThe inscription on the bottom reads, “Amor est vitae essentia.”\n[Dark Lord] Energy Fragment\nA fragment imbued with the power of Dark Lord. Bringing it to the Midgard receptionist [Lucy] might reveal an important clue.\nBattle Dark Lord Doll\nFierce energy emanates from the Dark Lord Doll. It seems that the ‘Battle Doll Arbiter’ may know something.\n2026 Commemorative Coin\nLand Pass (Winter)\nIf you bring this to <NAVI>[Land Rideword]<INFO>izlude,122,114,0,100,0,0</INFO></NAVI>, it will reveal its secrets.\nThis item will be deleted during the regular maintenance on the 2nd week of February 2026.\n★ Jur Crafting Token\n★ Lute Crafting Token\n★ Wire Whip Crafting Token\n★ Guisarme Crafting Token\n★ Studded Knuckles Crafting Token\n★ Short Spear Crafting Token\n[Pharaoh] Energy Fragment\nA fragment imbued with the power of Pharaoh. Bringing it to the Midgard receptionist [Lucy] might reveal an important clue.\n[Baphomet] Energy Fragment\nA fragment imbued with the power of Baphomet. Bringing it to the Midgard receptionist [Lucy] might reveal an important clue.\n[Doppelganger] Energy Fragment\nA fragment imbued with the power of Doppelganger. Bringing it to the Midgard receptionist [Lucy] might reveal an important clue.\n[Dracula] Energy Fragment\nA fragment imbued with the power of Dracula. Bringing it to the Midgard receptionist [Lucy] might reveal an important clue.\nBattle Pharaoh Doll\nFierce energy emanates from the Pharaoh Doll. It seems that the ‘Battle Doll Arbiter’ may know something.\nBattle Baphomet Doll\nFierce energy emanates from the Baphomet Doll. It seems that the ‘Battle Doll Arbiter’ may know something.\nBattle Doppelganger Doll\nFierce energy emanates from the Doppelganger Doll. It seems that the ‘Battle Doll Arbiter’ may know something.\nBattle Dracula Doll\nFierce energy emanates from the Dracula Doll. It seems that the ‘Battle Doll Arbiter’ may know something.\n[Event] Attendance Check Certificate\nA certificate given to diligent adventurers who complete Attendance Check.\nCollect 5 to receive a special reward.\nLarge Siege Purple Potion\nIt boasts a capacity that’s 50% larger than the original.\nRecovers about 750 HP and about 100 SP.","brand":{"@type":"Brand","name":"Ragnarok Zero Global"},"category":"Costume","sku":700137,"offers":{"@type":"Offer","availability":"https://schema.org/InStock","price":"0","priceCurrency":"Zeny"},"additionalProperty":[{"@type":"PropertyValue","name":"Weight","value":0},{"@type":"PropertyValue","name":"Slots","value":0},{"@type":"PropertyValue","name":"Required Level","value":0}]}]0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"style":{"maxWidth":"1000px","margin":"0 auto","padding":"6rem 1.5rem 4rem"},"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3","$L4","$L5"]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"41Bb5SBYM0XKkXOVG3EZ4"}
+3:["$","$L8",null,{"items":[{"label":"Database","href":"/database/items"},{"label":"Items","href":"/database/items"},{"label":"It has greater draw strength than the original Great Bow, making it difficult to handle."}]}]
+a:T4655,DEX +5, ATK +10
+Guild Medal
+A highly valuable token obtainable from the Guild Hideout Dungeon. Used for item exchanges and enchantments.
+Boost: Storm Gust Lv.1
+A gemstone that can imbue special power into Advanced Guild weapons.
+Force: Storm Gust can be imbued.
+Increases damage dealt with Storm Gust by 7%.
+Boost: Meteor Storm Lv.1
+Force: Meteor Storm can be imbued.
+Increases damage dealt with Meteor Storm by 7%.
+Boost: Lord of Vermilion Lv.1
+Force: Lord of Vermilion can be imbued.
+Increases damage dealt with Lord of Vermilion by 7%.
+Boost: Magnus Exorcismus Lv.1
+Force: Magnus Exorcismus can be imbued.
+Increases damage dealt with Magnus Exorcismus by 7%.
+Boost: Meteor Assault Lv.1
+Force: Meteor Assault can be imbued.
+Increases damage dealt with Meteor Assault by 7%.
+Boost: Clashing Spiral Lv.1
+Force: Clashing Spiral can be imbued.
+Increases damage dealt with Clashing Spiral by 7%.
+Boost: Acid Bomb Lv.1
+Force: Acid Bomb can be imbued.
+Increases damage dealt with Acid Bomb by 7%.
+Boost: Pierce Lv.1
+Force: Pierce can be imbued.
+Increases damage dealt with Pierce by 7%.
+Boost: Bowling Bash Lv.1
+Force: Bowling Bash can be imbued.
+Increases damage dealt with Bowling Bash by 7%.
+Boost: Waterball Lv.1
+Force: Waterball can be imbued.
+Increases damage dealt with Waterball by 7%.
+Boost: Sonic Blow Lv.1
+Force: Sonic Blow can be imbued.
+Increases damage dealt with Sonic Blow by 7%.
+Boost: Rapid Smiting Lv.1
+Force: Rapid Smiting can be imbued.
+Increases damage dealt with Rapid Smiting by 7%.
+Boost: Shield Boomerang Lv.1
+Force: Shield Boomerang can be imbued.
+Increases damage dealt with Shield Boomerang by 7%.
+Boost: Holy Cross Lv.1
+Force: Holy Cross can be imbued.
+Increases damage dealt with Holy Cross by 7%.
+Boost: Falcon Assault Lv.1
+Force: Falcon Assault can be imbued.
+Increases damage dealt with Falcon Assault by 7%.
+Boost: Blitz Beat Lv.1
+Force: Blitz Beat can be imbued.
+Increases damage dealt with Blitz Beat by 7%.
+Boost: Guillotine Fist Lv.1
+Force: Guillotine Fist can be imbued.
+Increases damage dealt with Guillotine Fist by 7%.
+Boost: Occult Impaction Lv.1
+Force: Occult Impaction can be imbued.
+Increases damage dealt with Occult Impaction by 7%.
+Boost: Arrow Vulcan Lv.1
+Force: Arrow Vulcan can be imbued.
+Increases damage dealt with Arrow Vulcan by 7%.
+Boost: Double Strafe Lv.1
+Force: Double Strafe can be imbued.
+Increases damage dealt with Double Strafe by 7%.
+Boost: Focused Arrow Strike Lv.1
+Force: Focused Arrow Strike can be imbued.
+Increases damage dealt with Focused Arrow Strike by 7%.
+Boost: Napalm Vulcan Lv.1
+Force: Napalm Vulcan can be imbued.
+Increases damage dealt with Napalm Vulcan by 7%.
+Boost: Gravitation Field Lv.1
+Force: Gravitational Field can be imbued.
+Increases damage dealt with Gravitational Field by 7%.
+Tolerance: Storm Gust Lv.1
+A gemstone that can imbue special power into Advanced Guild armor.
+Resist: Storm Gust can be imbued.
+Reduces damage received from Storm Gust by 15%.
+Tolerance: Meteor Storm Lv.1
+Resist: Meteor Storm can be imbued.
+Reduces damage received from Meteor Storm by 15%.
+Tolerance: Lord of Vermilion Lv.1
+Resist: Lord of Vermilion can be imbued.
+Reduces damage received from Lord of Vermilion by 15%.
+Tolerance: Magnus Exorcismus Lv.1
+Resist: Magnus Exorcismus can be imbued.
+Reduces damage received from Magnus Exorcismus by 15%.
+Tolerance: Meteor Assault Lv.1
+Resist: Meteor Assault can be imbued.
+Reduces damage received from Meteor Assault by 15%.
+Tolerance: Clashing Spiral Lv.1
+Resist: Clashing Spiral can be imbued.
+Reduces damage received from Clashing Spiral by 15%.
+Tolerance: Acid Bomb Lv.1
+Resist: Acid Bomb can be imbued.
+Reduces damage received from Acid Bomb by 15%.
+Tolerance: Pierce Lv.1
+Resist: Pierce can be imbued.
+Reduces damage received from Pierce by 15%.
+Tolerance: Bowling Bash Lv.1
+Resist: Bowling Bash can be imbued.
+Reduces damage received from Bowling Bash by 15%.
+Tolerance: Waterball Lv.1
+Resist: Waterball can be imbued.
+Reduces damage received from Waterball by 15%.
+Tolerance: Sonic Blow Lv.1
+Resist: Sonic Blow can be imbued.
+Reduces damage received from Sonic Blow by 15%.
+Tolerance: Rapid Smiting Lv.1
+Resist: Rapid Smiting can be imbued.
+Reduces damage received from Rapid Smiting by 15%.
+Tolerance: Shield Boomerang Lv.1
+Resist: Shield Boomerang can be imbued.
+Reduces damage received from Shield Boomerang by 15%.
+Tolerance: Holy Cross Lv.1
+Resist: Holy Cross can be imbued.
+Reduces damage received from Holy Cross by 15%.
+Tolerance: Falcon Assault Lv.1
+Resist: Falcon Assault can be imbued.
+Reduces damage received from Falcon Assault by 15%.
+Tolerance: Blitz Beat Lv.1
+Resist: Blitz Beat can be imbued.
+Reduces damage received from Blitz Beat by 15%.
+Tolerance: Guillotine Fist Lv.1
+Resist: Guillotine Fist can be imbued.
+Reduces damage received from Guillotine Fist by 15%.
+Tolerance: Occult Impaction Lv.1
+Resist: Occult Impaction can be imbued.
+Reduces damage received from Occult Impaction by 15%.
+Tolerance: Arrow Vulcan Lv.1
+Resist: Arrow Vulcan can be imbued.
+Reduces damage received from Arrow Vulcan by 15%.
+Tolerance: Double Strafe Lv.1
+Resist: Double Strafe can be imbued.
+Reduces damage received from Double Strafe by 15%.
+Tolerance: Focused Arrow Strike Lv.1
+Resist: Focused Arrow Strike can be imbued.
+Reduces damage received from Focused Arrow Strike by 15%.
+Tolerance: Napalm Vulcan Lv.1
+Resist: Napalm Vulcan can be imbued.
+Reduces damage received from Napalm Vulcan by 15%.
+Tolerance: Gravitation Field Lv.1
+Resist: Gravitational Field can be imbued.
+Reduces damage received from Gravitational Field by 15%.
+Tolerance: Critical Lv.1
+Resist: Critical can be imbued.
+Reduces Critical Damage from basic attacks received from players by 15%.
+Shining Solid Ore
+Ore required to craft Shining Armor.
+Recovery Potion
+A restorative potion that heals all wounds the moment it is taken.
+As long as you’re not dead, it can mend any injury.
+Correlation Between Magic and Power
+One of the books that Lucian asked to be found.
+Lacandra's Marvelous Spellbook
+How to Enhance Magical Ability
+Necklace Box
+A box containing a necklace that Salih Hamid was scheduled to deliver to Sahario, the investigation unit leader.
+Letter from D
+A letter sealed tightly by a mysterious woman known only as “D.”
+The seal on the envelope bears the letter D, concealing the sender’s true identity.
+[Recipient: Assassin Guild Elder]
+Queen’s Letter
+Sealed tightly with a letter from Catherine E. Geoborg, Queen of the Rune-Midgarts Kingdom.
+The seal bears the letter “D,” used to conceal the true identity of the sender.
+[Recipient : Assassin Guild Elder]
+Elder's Letter
+Firmly sealed with the Assassin Guild’s Elder's Letter.
+The seal on the envelope bears the mark of the Assassin Guild.
+[Recipient: D]
+Contaminated Shell Meat
+Prepared from the flesh of a Corrupted Shellfish. It can be eaten in various ways, but if the sand and mud left from its tidal-flat habitat are not thoroughly removed, it may be unpleasant to eat.
+Contaminated Claw Meat
+Cut from the Claw Meat of a Corrupted Crab.
+Claw Meat is tougher than it looks and tends to clamp down without letting go once it grabs, so handle with care.
+Galapago Cell
+Cellular tissue collected for research on Galapago.
+Furseal Cell
+Cellular tissue collected for research on Furseal.
+Sea-Otter Cell
+Cell tissue collected for research on Sea-Otter.
+Half-Written Letter
+A Half-Written Letter found in a shop that was selling food made from spoiled ingredients.
+Dusky Herb
+An herb used as an ingredient to create a cure for the Comodo Plague.
+Healing Potion
+A potion created to cure the Comodo Plague that has spread throughout the coastal city of Comodo.
+It is the finest remedy crafted by the priest Britia, dispatched from the Prontera Cathedral.
+Damaged Letter
+A Damaged Letter found in the fortress city of Sandarman.
+The original seal has been broken, leaving no way to identify the sender.
+Enriched Oridecon
+A delicate ore that protects your precious equipment from harm.
+– When refining a Merchant weapon at +7, the item will not be destroyed even if the attempt fails. However, it cannot be refined above +10. –
+(If the refinement fails, the refine level decreases by 1.)
+Enriched Elunium
+– When refining Merchant armor at +7, the item will not be destroyed even if the attempt fails. However, it cannot be refined above +10. –
+Gym Membership
+HD Carnium
+Compressed over an unimaginably long time, its density and strength have grown even higher. It seems even more demanding for armor refinement.
+- When refining armor at +10 or higher, failure will not destroy the armor! -
+HD Bradium
+- When refining Weapon at +10 or higher, failure will not destroy the Weapon! -
+Footprint Effect (Garment)
+Enchant the 4th slot of a Garment Costume to apply an effect.
+Footprint Effect
+<NAVI>[Gruzio Gurmani]<INFO>itemmall,41,48,0,100,0,0</INFO></NAVI>
+Whirlwind Footprint (Garment)
+Whirlwind Footprint
+Purple Star Footprint (Garment)
+Purple Star Footprint
+Yellow Star Footprint (Garment)
+Yellow Star Footprint
+Red Star Footprint (Garment)
+Ocean Week Commemorative Ticket
+A commemorative ticket issued to celebrate the Ocean Week of Sessrumnir.
+Puppy Footprint (Garment)
+Puppy Footprint
+Dumpling Footprint (Garment)
+Dumpling Footprint
+Panda Basic Footprint (Garment)
+Panda Footprint
+Panda Color Footprint (Garment)
+Panda Color Footprint
+Battle Plush Doll
+Fierce energy emanates from the Lunatic Doll. It seems that the “Battle Doll Arbiter” may know something.
+Battle Poring Doll
+Fierce energy emanates from the Poring Doll. It seems that the “Battle Doll Arbiter” may know something.
+Battle ChonChon Doll
+Fierce energy emanates from the Chonchon Doll. It seems that the “Battle Doll Arbiter” may know something.
+Battle Spore Doll
+Fierce energy emanates from the Spore Doll. It seems that the “Battle Doll Arbiter” may know something.
+Battle Mantis Doll
+Fierce energy emanates from the Rocker Doll. It seems that the “Battle Doll Arbiter” may know something.
+Battle Monkey Doll
+Fierce energy emanates from the Choco Doll. It seems that the “Battle Doll Arbiter” may know something.
+Battle Tanuki Doll
+Fierce energy emanates from the Smokie Doll. It seems that the “Battle Doll Arbiter” may know something.
+Battle Munak Doll
+Fierce energy emanates from the Munak Doll. It seems that the “Battle Doll Arbiter” may know something.
+[Costume] Unbinding Injector
+You can use this item by talking to NPC Costume Binding Manager (prontera 251 267).
+Consumes ‘[Costume] Unbinding Injector’ * 1 + ‘Costume (Bound)’ * 1 to revert it back to ‘Costume’ * 1.
+[Costume] Binding Injector
+Can be purchased from NPC Costume Binding Manager (prontera 251 267).
+Consumes ‘[Costume] Binding Injector’ * 1 + one costume to convert it into ‘Costume (Bound)’ * 1.
+2025 Commemorative Coin
+Can be exchanged for a time-limited costume through the designated NPC.
+Toothless Footprint
+Bouncing Toothless Footprint
+Land Pass (Summer)
+Bring this to Land Rideword in Izlude, and it will reveal its hidden secrets.
+Battle Angeling Doll
+A stuffed Angeling radiating a violent aura. It seems that the “Battle Doll Arbiter
+” knows something.
+Battle Deviling Doll
+A stuffed Deviling radiating a violent aura. It seems that the “Battle Doll Arbiter
+★ Chain Forging Token
+★Weapon Crafting [Nagging Old Man] seems to know something.
+★ Stiletto Forging Token
+★ Crossbow Forging Token
+★ Bastard Sword Forging Token
+★ Hammer Forging Token
+★ Wand Forging Token
+Impure Stone
+It is said that somewhere in Prontera, a special stone known as the [Mysterious Magic Stone] is searching for this item.
+Goblin Coin Shard
+Blacksmith's Blessing Powder
+A pink powder said to be found only near an Anvil used by skilled blacksmiths.
+It might be worth collecting.
+Fierce energy emanates from the Golden ThiefBug Doll. It seems that the ‘Battle Doll Arbiter’ may know something.
+<NAVI>[Battle Doll Arbiter]<INFO>prontera,260,268,0,100,0,0</INFO></NAVI>
+Fierce energy emanates from the Phreeoni Doll. It seems that the ‘Battle Doll Arbiter’ may know something.
+Fierce energy emanates from the Edgar Doll. It seems that the ‘Battle Doll Arbiter’ may know something.
+Fierce energy emanates from the Maya Doll. It seems that the ‘Battle Doll Arbiter’ may know something.
+Fierce energy emanates from the Moonlight Flower Doll. It seems that the ‘Battle Doll Arbiter’ may know something.
+Fierce energy emanates from the Orc Hero Doll. It seems that the ‘Battle Doll Arbiter’ may know something.
+Fierce energy emanates from the Orc Lord Doll. It seems that the ‘Battle Doll Arbiter’ may know something.
+[Golden ThiefBug] Energy Fragment
+A fragment imbued with the power of Golden ThiefBug. Bringing it to the Midgard receptionist [Lucy] might reveal an important clue.
+[Phreeoni] Energy Fragment
+A fragment imbued with the power of Phreeoni. Bringing it to the Midgard receptionist [Lucy] might reveal an important clue.
+[Orc Hero] Energy Fragment
+A fragment imbued with the power of Orc Hero. Bringing it to the Midgard receptionist [Lucy] might reveal an important clue.
+[Orc Lord] Energy Fragment
+A fragment imbued with the power of Orc Lord. Bringing it to the Midgard receptionist [Lucy] might reveal an important clue.
+[Moonlight Flower] Energy Fragment
+A fragment imbued with the power of Moonlight Flower. Bringing it to the Midgard receptionist [Lucy] might reveal an important clue.
+[Maya] Energy Fragment
+A fragment imbued with the power of Maya. Bringing it to the Midgard receptionist [Lucy] might reveal an important clue.
+[Eddga] Energy Fragment
+A fragment imbued with the power of Edgar. Bringing it to the Midgard receptionist [Lucy] might reveal an important clue.
+Jeremy’s Beauty Coupon III
+Styling Shop exclusive Beauty Coupon III.
+Horn Wrapped in Flames
+A fragment of the Sacred Relic—Sigrun's Wings of Eternity.
+Crafted by the Dwarven artisan ‘Brukk’.
+Mask Wrapped in Flames
+Wood Wrapped in Flames
+Crystal Wrapped in Flames
+Rope Wrapped in Flames
+Liquid Wrapped in Flames
+Ore Wrapped in Flames
+Snake Hair Wrapped in Flames
+Runestone Wrapped in Flames
+Feather Wrapped in Flames
+★ Book Crafting Token
+Collect a certain amount and bring them to <NAVI>[Nagging Old Man]<INFO>prontera,272,260,0,100,0,0</INFO></NAVI> to activate the weapon.
+★ Slayer Forging Token
+★ Ring Pommel Saber Forging Token
+★ Great Bow Forging Token
+★ Smasher Forging Token
+Battle Osiris Doll
+Fierce energy emanates from the Osiris Doll. It seems that the ‘Battle Doll Arbiter’ may know something.
+Battle Amon Ra Doll
+Fierce energy emanates from the Amon Ra Doll. It seems that the ‘Battle Doll Arbiter’ may know something.
+[Osiris] Energy Fragment
+A fragment imbued with the power of Osiris. Bringing it to the Midgard receptionist [Lucy] might reveal an important clue.
+<NAVI>[Lucy]<INFO>prtin,45,102,0,100,0,0</INFO></NAVI>
+[Amon Ra] Energy Fragment
+A fragment imbued with the power of Amon Ra. Bringing it to the Midgard receptionist [Lucy] might reveal an important clue.
+Battle Drake Doll
+Fierce energy emanates from the Drake Doll. It seems that the ‘Battle Doll Arbiter’ may know something.
+Battle Tao Gunka Doll
+Fierce energy emanates from the Tao Gunka Doll. It seems that the ‘Battle Doll Arbiter’ may know something.
+[Drake] Energy Fragment
+A fragment imbued with the power of Drake. Bringing it to the Midgard receptionist [Lucy] might reveal an important clue.
+[Tao Gunka] Energy Fragment
+A fragment imbued with the power of Tao Gunka. Bringing it to the Midgard receptionist [Lucy] might reveal an important clue.
+Card Coin
+A coin filled with dreams—take it with you and set off in search of rare treasures!
+Guild Emblem
+A token representing the strongest guild.
+[Quest] Slightly Worn Poring Doll
+A heartfelt gift prepared by a father for his daughter.
+The inscription on the bottom reads, “Amor est vitae essentia.”
+[Dark Lord] Energy Fragment
+A fragment imbued with the power of Dark Lord. Bringing it to the Midgard receptionist [Lucy] might reveal an important clue.
+Battle Dark Lord Doll
+Fierce energy emanates from the Dark Lord Doll. It seems that the ‘Battle Doll Arbiter’ may know something.
+2026 Commemorative Coin
+Land Pass (Winter)
+If you bring this to <NAVI>[Land Rideword]<INFO>izlude,122,114,0,100,0,0</INFO></NAVI>, it will reveal its secrets.
+This item will be deleted during the regular maintenance on the 2nd week of February 2026.
+★ Jur Crafting Token
+★ Lute Crafting Token
+★ Wire Whip Crafting Token
+★ Guisarme Crafting Token
+★ Studded Knuckles Crafting Token
+★ Short Spear Crafting Token
+[Pharaoh] Energy Fragment
+A fragment imbued with the power of Pharaoh. Bringing it to the Midgard receptionist [Lucy] might reveal an important clue.
+[Baphomet] Energy Fragment
+A fragment imbued with the power of Baphomet. Bringing it to the Midgard receptionist [Lucy] might reveal an important clue.
+[Doppelganger] Energy Fragment
+A fragment imbued with the power of Doppelganger. Bringing it to the Midgard receptionist [Lucy] might reveal an important clue.
+[Dracula] Energy Fragment
+A fragment imbued with the power of Dracula. Bringing it to the Midgard receptionist [Lucy] might reveal an important clue.
+Battle Pharaoh Doll
+Fierce energy emanates from the Pharaoh Doll. It seems that the ‘Battle Doll Arbiter’ may know something.
+Battle Baphomet Doll
+Fierce energy emanates from the Baphomet Doll. It seems that the ‘Battle Doll Arbiter’ may know something.
+Battle Doppelganger Doll
+Fierce energy emanates from the Doppelganger Doll. It seems that the ‘Battle Doll Arbiter’ may know something.
+Battle Dracula Doll
+Fierce energy emanates from the Dracula Doll. It seems that the ‘Battle Doll Arbiter’ may know something.
+[Event] Attendance Check Certificate
+A certificate given to diligent adventurers who complete Attendance Check.
+Collect 5 to receive a special reward.
+Large Siege Purple Potion
+It boasts a capacity that’s 50% larger than the original.
+Recovers about 750 HP and about 100 SP.4:["$","$L9",null,{"item":{"id":700137,"name_en":"It has greater draw strength than the original Great Bow, making it difficult to handle.","name_zh":"","category":"Costume","slot":"-","description":"$a","icon_url":"https://assets.twroz.wiki/images/items/700137.gif","slots":0,"attack":0,"defense":0,"weapon_level":0,"required_level":0,"weight":0,"buy_price":0,"sell_price":0,"equip_jobs":"","can_trade":true,"costume":true,"card_prefix_name":"","dropped_by":[]}}]
+5:["$","div",null,{"style":{"marginTop":"3rem","padding":"2rem","background":"#f8fafc","borderRadius":"16px","border":"1px solid #e2e8f0"},"children":["$","p",null,{"style":{"fontSize":"0.85rem","color":"#64748b","lineHeight":1.6,"margin":0},"children":["Detailed item information for ",["$","strong",null,{"children":"It has greater draw strength than the original Great Bow, making it difficult to handle."}],". Part of the comprehensive ",["$","strong",null,{"children":"Ragnarok Zero Global"}]," item database on Midgardhub.com. Check drop rates, monster sources, and equipment stats translated directly from TWRo Zero."]}]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/13340i7529gkl.js","async":true}]
+7:["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]
+d:null
