@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://midgardhub.com/sitemap.xml
+Sitemap: https://midgardhub.com/video-sitemap.xml
