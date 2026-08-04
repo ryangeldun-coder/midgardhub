@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fdatabase\u002Fitems\u002F[id]","\u002Fdatabase\u002Fmaps\u002F[id]","\u002Fdatabase\u002Fmonsters\u002F[id]","\u002Fdatabase\u002Fquests\u002F[id]","\u002Flore\u002F[videoId]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
