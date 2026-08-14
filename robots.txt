@@ -1,0 +1,28 @@
+User-Agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+
+User-Agent: GPTBot
+Allow: /
+
+User-Agent: Google-Extended
+Allow: /
+
+User-Agent: PerplexityBot
+Allow: /
+
+User-Agent: anthropic-ai
+Allow: /
+
+User-Agent: CCBot
+Allow: /
+
+User-Agent: FacebookBot
+Allow: /
+
+User-Agent: cohere-ai
+Allow: /
+
+Sitemap: https://midgardhub.com/sitemap.xml
+Sitemap: https://midgardhub.com/video-sitemap.xml
