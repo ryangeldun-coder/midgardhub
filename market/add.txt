@@ -12,7 +12,7 @@ c:I[97694,["8500","static/chunks/8500-f62a38ff68ab7f42.js","1008","static/chunks
 d:I[40078,["8500","static/chunks/8500-f62a38ff68ab7f42.js","1008","static/chunks/1008-309a36d579b7ab3c.js","8437","static/chunks/8437-f59c6bc63dc76521.js","4063","static/chunks/4063-1061936098e585c5.js","5118","static/chunks/5118-7f46309c0f5d58f3.js","7177","static/chunks/app/layout-55adc998c2341470.js"],"default"]
 e:I[34285,["8500","static/chunks/8500-f62a38ff68ab7f42.js","1008","static/chunks/1008-309a36d579b7ab3c.js","8437","static/chunks/8437-f59c6bc63dc76521.js","4063","static/chunks/4063-1061936098e585c5.js","5118","static/chunks/5118-7f46309c0f5d58f3.js","7177","static/chunks/app/layout-55adc998c2341470.js"],"default"]
 f:"$Sreact.suspense"
-10:I[32785,["5730","static/chunks/44530001-4e5a54d1411132bf.js","8500","static/chunks/8500-f62a38ff68ab7f42.js","7629","static/chunks/7629-26c1e83117bb040f.js","2831","static/chunks/app/market/add/page-c0502591e9cac3ed.js"],"default"]
+10:I[32785,["5730","static/chunks/44530001-4e5a54d1411132bf.js","8500","static/chunks/8500-f62a38ff68ab7f42.js","7629","static/chunks/7629-26c1e83117bb040f.js","2831","static/chunks/app/market/add/page-0d27f088da8933e4.js"],"default"]
 11:I[90484,[],"OutletBoundary"]
 14:I[90484,[],"ViewportBoundary"]
 16:I[90484,[],"MetadataBoundary"]
