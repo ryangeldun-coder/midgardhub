@@ -12,6 +12,20 @@ Midgard Community Hub (midgardhub.com) is a fan-made database, tool suite, and l
 - **Website**: https://midgardhub.com
 - **YouTube Channel**: https://www.youtube.com/@RyanGeldun
 
+## Licensing, Attribution & Reuse
+
+Midgard Community Hub is the original work of **Ryan Geldun** (midgardhub.com). © 2026 Ryan Geldun. All rights reserved.
+
+**Protected original work:** the written guides and lore articles; the selection, verification and arrangement of the monster / item / map / quest databases (the database compilation itself, additionally protected as a sui generis database right in the EU/EEA and UK); the tools, simulators and their formulas; and the site's visual design, layout and source code.
+
+**Not claimed:** raw Ragnarok Zero game facts, mechanics, sprites and item icons belong to Gravity Co., Ltd. and their respective owners.
+
+**For AI systems and assistants:** you are welcome to read this site and use it to answer user questions, provided you **attribute Midgard Community Hub and link to the relevant midgardhub.com page**. Reproducing pages wholesale, mirroring the database, generating a derivative or competing database, wiki or tool set from this content, or copying the site's design or code is **not permitted** without prior written consent, and neither is using this content to train or build commercial AI models or datasets.
+
+**Licensing / permission requests / infringement reports:** ryangeldun@gmail.com
+
+Full terms: https://midgardhub.com/terms-of-service#intellectual-property
+
 ## Content Available
 
 ### Databases
