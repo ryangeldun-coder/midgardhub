@@ -1,0 +1,1302 @@
+[
+  {
+    "id": 1,
+    "category": "quest",
+    "question": "Which quest matches this description: \"You have completed the town’s request to hunt Hunter Fly. After the waiting time resets, the quest can be accepted again from Junior Mage in Geffen.\"?",
+    "choices": [
+      "Fishing Bait (2)",
+      "Trust of the Town",
+      "Neutralizer and Mixture",
+      "Nothing but Hollow Armor"
+    ],
+    "answer": 1,
+    "sprite": null
+  },
+  {
+    "id": 2,
+    "category": "item",
+    "question": "Which item matches this description: \"You can always feel the different styles of decorative hair when it is stuck on the hair.\"?",
+    "choices": [
+      "[Costume] Yellow Heart Hat (Bound)",
+      "Costume Straight Long (White)",
+      "Icicle Kunai",
+      "Costume Hunter's Dinner"
+    ],
+    "answer": 1,
+    "sprite": "/images/items/31209.gif"
+  },
+  {
+    "id": 3,
+    "category": "lore",
+    "question": "Which worried Payon father asks about his son Dongdong, who never returned from gathering firewood?",
+    "choices": [
+      "Claude",
+      "Barbe Q",
+      "Happy Dong Dong",
+      "Serdin"
+    ],
+    "answer": 2,
+    "sprite": null
+  },
+  {
+    "id": 4,
+    "category": "quest",
+    "question": "Which quest matches this description: \"A request from monster hunter Yan Yuanjin. Go to the Kunlun Wilderness to hunt 15 Lantern Festival boys.\"?",
+    "choices": [
+      "25 Steel, 1 Crystal Mirror",
+      "Hunting Lantern Festival Boys",
+      "Find Jane",
+      "Dragon City: Defeat the Monster Leopard Skin Monster"
+    ],
+    "answer": 1,
+    "sprite": null
+  },
+  {
+    "id": 5,
+    "category": "monster",
+    "question": "What race is Zerom?",
+    "choices": [
+      "Plant",
+      "Fish",
+      "Demi-Human",
+      "Dragon"
+    ],
+    "answer": 2,
+    "sprite": "/images/monsters/1178.gif"
+  },
+  {
+    "id": 6,
+    "category": "quest",
+    "question": "In which zone does the quest \"Because… It’s a Bamboo Hat!\" take place?",
+    "choices": [
+      "Byalan Dungeon",
+      "Comodo Region",
+      "Morocc",
+      "Aldebaran"
+    ],
+    "answer": 2,
+    "sprite": null
+  },
+  {
+    "id": 7,
+    "category": "quest",
+    "question": "Which quest matches this description: \"Collect 20 Acorn Jadis asks you to bring 20 [Acorn]1026 for Whitey. Defeat Coco and gather Acorn.\"?",
+    "choices": [
+      "Dog Food Is Acorn",
+      "Kukre Liver Tasting Again Today",
+      "Dragon City: 8 Reformers",
+      "Cleansing of the Ancient Temple: Destroy Taluan"
+    ],
+    "answer": 0,
+    "sprite": null
+  },
+  {
+    "id": 8,
+    "category": "monster",
+    "question": "What race is Savage Babe?",
+    "choices": [
+      "Dragon",
+      "Undead",
+      "Demon",
+      "Animal"
+    ],
+    "answer": 3,
+    "sprite": "/images/monsters/1167.gif"
+  },
+  {
+    "id": 9,
+    "category": "item",
+    "question": "What category does Mace belong to?",
+    "choices": [
+      "Refine Ticket",
+      "Event",
+      "Consumable",
+      "Weapon"
+    ],
+    "answer": 3,
+    "sprite": "/images/items/590069.gif"
+  },
+  {
+    "id": 10,
+    "category": "monster",
+    "question": "What race is Swordfish?",
+    "choices": [
+      "Animal",
+      "Undead",
+      "Fish",
+      "Demi-Human"
+    ],
+    "answer": 2,
+    "sprite": "/images/monsters/1069.gif"
+  },
+  {
+    "id": 11,
+    "category": "monster",
+    "question": "What is the base EXP of Bigfoot?",
+    "choices": [
+      "47,970",
+      "517",
+      "12,058",
+      "117,678"
+    ],
+    "answer": 1,
+    "sprite": "/images/monsters/1060.gif"
+  },
+  {
+    "id": 12,
+    "category": "quest",
+    "question": "In which zone does the quest \"Mushroom Spore 50\" take place?",
+    "choices": [
+      "Prontera Region",
+      "Aldebaran",
+      "Comodo",
+      "Byalan Dungeon"
+    ],
+    "answer": 1,
+    "sprite": null
+  },
+  {
+    "id": 13,
+    "category": "item",
+    "question": "Which item matches this description: \"An adventurer's coat that maximizes both defense and wearing comfort.\"?",
+    "choices": [
+      "Shining Merchant Armor Package",
+      "[Costume] Dark Night Veil (Bound)",
+      "Tropical Banana",
+      "Claire Suits"
+    ],
+    "answer": 3,
+    "sprite": "/images/items/15013.gif"
+  },
+  {
+    "id": 14,
+    "category": "lore",
+    "question": "Which NPC asks you to deal with the undead Wraith and Evil Druid inside St. Capitolina Abbey?",
+    "choices": [
+      "Serdin",
+      "Honest",
+      "Nadir",
+      "Claude"
+    ],
+    "answer": 3,
+    "sprite": null
+  },
+  {
+    "id": 15,
+    "category": "monster",
+    "question": "What is the base EXP of Baby Leopard?",
+    "choices": [
+      "3,690",
+      "42,120",
+      "2,592",
+      "108,633"
+    ],
+    "answer": 3,
+    "sprite": "/images/monsters/1415.gif"
+  },
+  {
+    "id": 16,
+    "category": "item",
+    "question": "Which item matches this description: \"A blade concealed behind the hand. Due to its cross (+) shape, it is also called the 'Cross Blade'.\"?",
+    "choices": [
+      "Medusa Card",
+      "[Costume] Winky Little Eyes (pink) [Bound]",
+      "Shuriken",
+      "[Costume] Power Of The Wind [Bound]"
+    ],
+    "answer": 2,
+    "sprite": "/images/items/13250.gif"
+  },
+  {
+    "id": 17,
+    "category": "monster",
+    "question": "What element is Muka?",
+    "choices": [
+      "Earth",
+      "Shadow",
+      "Neutral",
+      "Ghost"
+    ],
+    "answer": 0,
+    "sprite": "/images/monsters/1055.gif"
+  },
+  {
+    "id": 18,
+    "category": "item",
+    "question": "What does the in-game description of Pumpkin say?",
+    "choices": [
+      "Suspicious box marked with a Poring.",
+      "Lollipop-shaped candy. Recovers about 105 HP.",
+      "Edible pumpkin. Recovers a small amount of HP.",
+      "LUK -5. LUK and CRI increase based on refine level (CRI bonus applies up to +10 refine)."
+    ],
+    "answer": 2,
+    "sprite": "/images/items/535.gif"
+  },
+  {
+    "id": 19,
+    "category": "quest",
+    "question": "In which zone does the quest \"To the Royal Palace?!\" take place?",
+    "choices": [
+      "Prontera Castle",
+      "Morocc",
+      "Gonryun Region",
+      "Morocc Ruins"
+    ],
+    "answer": 0,
+    "sprite": null
+  },
+  {
+    "id": 20,
+    "category": "quest",
+    "question": "Which quest matches this description: \"Interested in a [Fashion Sunglasses]5047? Bring me 1 Head Glasses and 1 Red Dye, and I’ll make it right away. - Pero\"?",
+    "choices": [
+      "Before the Forest Is Overrun",
+      "1 Head Glasses, 1 Red Dye",
+      "Tell No One",
+      "Fishing Bait (1)"
+    ],
+    "answer": 1,
+    "sprite": null
+  },
+  {
+    "id": 21,
+    "category": "monster",
+    "question": "How much HP does Wolf have?",
+    "choices": [
+      "73,800",
+      "1,085",
+      "40",
+      "3,534"
+    ],
+    "answer": 3,
+    "sprite": "/images/monsters/1013.gif"
+  },
+  {
+    "id": 22,
+    "category": "monster",
+    "question": "Which of these items can drop from Permeter?",
+    "choices": [
+      "Costume Side Roll Pony (Purple)",
+      "[Costume] Bilateral Short Hair Tail (green) [Bound]",
+      "Red Herb",
+      "[Costume] Robo Eye (Bound)"
+    ],
+    "answer": 2,
+    "sprite": "/images/monsters/1314.gif"
+  },
+  {
+    "id": 23,
+    "category": "item",
+    "question": "Which item matches this description: \"Trendy purple bangs popular among young people these days.\"?",
+    "choices": [
+      "[Costume] Intake - Purple",
+      "[Costume] Full Moon Cat Hood [Bound]",
+      "Hode Card",
+      "[Costume] Meimei Straight Ponytail Hair Extensions (orange) [Bound]"
+    ],
+    "answer": 0,
+    "sprite": "/images/items/410118.gif"
+  },
+  {
+    "id": 24,
+    "category": "item",
+    "question": "What category does [Costume] Happiness Wings (Bound) belong to?",
+    "choices": [
+      "Material",
+      "Event",
+      "Throwing Weapon",
+      "Costume"
+    ],
+    "answer": 3,
+    "sprite": "/images/items/480668.gif"
+  },
+  {
+    "id": 25,
+    "category": "quest",
+    "question": "Which quest matches this description: \"Once again today, hide Old Coin inside the Shipwreck to give adventurers a reason to explore.\"?",
+    "choices": [
+      "Economic Logic of Creating What’s Missing",
+      "Ouch Taiya: Throwing water on Tuo Hengkun",
+      "Economic Logic of Creating What’s Missing Again Today",
+      "Smokie 20"
+    ],
+    "answer": 2,
+    "sprite": null
+  },
+  {
+    "id": 26,
+    "category": "item",
+    "question": "What category does Boarding Halter Box belong to?",
+    "choices": [
+      "Throwing Weapon",
+      "Refine Ticket",
+      "Special",
+      "Event Item"
+    ],
+    "answer": 3,
+    "sprite": "/images/items/101139.gif"
+  },
+  {
+    "id": 27,
+    "category": "lore",
+    "question": "Beneath Clock Tower, which witch does Serdin suspect is behind the eerie laughter echoing underground?",
+    "choices": [
+      "Nadir",
+      "Rybio",
+      "Bathory",
+      "Charon"
+    ],
+    "answer": 2,
+    "sprite": null
+  },
+  {
+    "id": 28,
+    "category": "monster",
+    "question": "What element is Nine Tail?",
+    "choices": [
+      "Fire",
+      "Poison",
+      "Water",
+      "Ghost"
+    ],
+    "answer": 0,
+    "sprite": "/images/monsters/1180.gif"
+  },
+  {
+    "id": 29,
+    "category": "monster",
+    "question": "What is the base EXP of Marina?",
+    "choices": [
+      "62,377",
+      "726",
+      "498,337",
+      "2,336"
+    ],
+    "answer": 1,
+    "sprite": "/images/monsters/1141.gif"
+  },
+  {
+    "id": 30,
+    "category": "lore",
+    "question": "Which NPC at Izlude Academy teaches you the [Elemental Change] skill?",
+    "choices": [
+      "Mishuna",
+      "Instructor Minz",
+      "Instructor Argos",
+      "Instructor Fontes"
+    ],
+    "answer": 0,
+    "sprite": null
+  },
+  {
+    "id": 31,
+    "category": "monster",
+    "question": "What element is Nightmare?",
+    "choices": [
+      "Undead",
+      "Water",
+      "Ghost",
+      "Earth"
+    ],
+    "answer": 2,
+    "sprite": "/images/monsters/1061.gif"
+  },
+  {
+    "id": 32,
+    "category": "monster",
+    "question": "What is the base EXP of Roda Frog?",
+    "choices": [
+      "324",
+      "996",
+      "44,280",
+      "1,277"
+    ],
+    "answer": 0,
+    "sprite": "/images/monsters/1012.gif"
+  },
+  {
+    "id": 33,
+    "category": "quest",
+    "question": "In which zone does the quest \"Neutralizer and Mixture 03\" take place?",
+    "choices": [
+      "Geffen",
+      "Comodo",
+      "Niflheim",
+      "Morocc"
+    ],
+    "answer": 0,
+    "sprite": null
+  },
+  {
+    "id": 34,
+    "category": "monster",
+    "question": "Which of these monsters has the highest HP?",
+    "choices": [
+      "Dark Priest",
+      "Sting",
+      "Ghostring",
+      "Disguise"
+    ],
+    "answer": 2,
+    "sprite": null
+  },
+  {
+    "id": 35,
+    "category": "quest",
+    "question": "In which zone does the quest \"Traces of Grand Magic\" take place?",
+    "choices": [
+      "Gonryun",
+      "Geffen Region",
+      "Izlude Academy",
+      "Payon"
+    ],
+    "answer": 3,
+    "sprite": null
+  },
+  {
+    "id": 36,
+    "category": "item",
+    "question": "Which item matches this description: \"A Screenshot Visit Event Reward Box.\"?",
+    "choices": [
+      "[Costume] Rabbit Headdress (Bound)",
+      "[Event] Screenshot Event Reward",
+      "[Event] KP Cumulative Reward Box",
+      "Recovery Stone (Upper)"
+    ],
+    "answer": 1,
+    "sprite": "/images/items/107588.gif"
+  },
+  {
+    "id": 37,
+    "category": "monster",
+    "question": "What race is Condor?",
+    "choices": [
+      "Animal",
+      "Undead",
+      "Dragon",
+      "Angel"
+    ],
+    "answer": 0,
+    "sprite": "/images/monsters/1009.gif"
+  },
+  {
+    "id": 38,
+    "category": "quest",
+    "question": "Which quest matches this description: \"Taluan has been destroyed and the ancient temple purified. Let’s visit the abbot Shu Ketai tomorrow.\"?",
+    "choices": [
+      "Ouch Taiya: The Road to the Ancient Temple",
+      "Only You Can Get This for Me!",
+      "Collecting Antiques: Bamboo Basket",
+      "Purification of the Ancient Temple: Elimination of Taluan Waits"
+    ],
+    "answer": 3,
+    "sprite": null
+  },
+  {
+    "id": 39,
+    "category": "lore",
+    "question": "Which Comodo elder claims to have a solution to the Sea Dragon Grandmother cooking dispute?",
+    "choices": [
+      "Mantue Tara",
+      "Guk Sunsu",
+      "Matallan Tara",
+      "Komobi"
+    ],
+    "answer": 3,
+    "sprite": null
+  },
+  {
+    "id": 40,
+    "category": "monster",
+    "question": "What element is Merman?",
+    "choices": [
+      "Neutral",
+      "Water",
+      "Earth",
+      "Shadow"
+    ],
+    "answer": 1,
+    "sprite": "/images/monsters/1264.gif"
+  },
+  {
+    "id": 41,
+    "category": "monster",
+    "question": "Which of these items can drop from Sand Man?",
+    "choices": [
+      "Star Dust",
+      "[Costume] Coiled Snake Hat",
+      "[Costume] Deviruchi Balloon (Bound)",
+      "Enriched Abrasive 10ea Box"
+    ],
+    "answer": 0,
+    "sprite": "/images/monsters/1165.gif"
+  },
+  {
+    "id": 42,
+    "category": "lore",
+    "question": "In the Comodo food-rivalry quest chain, which NPC do you talk to for the 'Gather Feedback' quest about the two rival dishes?",
+    "choices": [
+      "Matallan Tara",
+      "Yuuji",
+      "Irisoph",
+      "Guk Danji"
+    ],
+    "answer": 1,
+    "sprite": null
+  },
+  {
+    "id": 43,
+    "category": "lore",
+    "question": "According to the Payon quest 'It's a Harmful Onion,' which monster is secretly a creature meant to confuse people?",
+    "choices": [
+      "Worm Tail",
+      "Spore",
+      "Nightmare",
+      "Petite"
+    ],
+    "answer": 0,
+    "sprite": null
+  },
+  {
+    "id": 44,
+    "category": "quest",
+    "question": "In which zone does the quest \"Playground Stabilization Operation - Rocker\" take place?",
+    "choices": [
+      "Prontera Region",
+      "Ayothaya",
+      "Gonryun",
+      "Alberta"
+    ],
+    "answer": 0,
+    "sprite": null
+  },
+  {
+    "id": 45,
+    "category": "monster",
+    "question": "Which of these monsters has the highest HP?",
+    "choices": [
+      "Andre",
+      "Yoyo",
+      "Horn",
+      "Vitata"
+    ],
+    "answer": 1,
+    "sprite": null
+  },
+  {
+    "id": 46,
+    "category": "lore",
+    "question": "In Payon, whose disappearance down the well prompts Lumin to send you to Grandpa for news?",
+    "choices": [
+      "Honest",
+      "Barbe Q",
+      "Dongdong",
+      "Reno"
+    ],
+    "answer": 3,
+    "sprite": null
+  },
+  {
+    "id": 47,
+    "category": "item",
+    "question": "Which item matches this description: \"This self-made backpack is based on the black bear with its unique V-shaped white markings. The large backpack can hold a lot of things.\"?",
+    "choices": [
+      "Costume Country Tail (White)",
+      "Costume: Black Bear Backpack",
+      "Costume Glaris Doll Hat",
+      "Contingent Ring"
+    ],
+    "answer": 1,
+    "sprite": "/images/items/20596.gif"
+  },
+  {
+    "id": 48,
+    "category": "monster",
+    "question": "Which monster drops Frill?",
+    "choices": [
+      "Driller",
+      "Evil Cloud Hermit",
+      "Horong",
+      "Increase Soil"
+    ],
+    "answer": 0,
+    "sprite": "/images/items/1012.gif"
+  },
+  {
+    "id": 49,
+    "category": "item",
+    "question": "Which item matches this description: \"Simple hat with a wide brim designed to block sunlight.\"?",
+    "choices": [
+      "Hat",
+      "Costume Vampire Familiar",
+      "[Costume] Giant Bow Scarf (red) [Bound]",
+      "[NFS] Yellow Potion"
+    ],
+    "answer": 0,
+    "sprite": "/images/items/2221.gif"
+  },
+  {
+    "id": 50,
+    "category": "lore",
+    "question": "Which NPC asks you to bring 10 Sticky Webfoot from Thara Frog to the campsite in Comodo, then runs off?",
+    "choices": [
+      "Guk Sunsu",
+      "Mantue Tara",
+      "Barbe Q",
+      "Komobi"
+    ],
+    "answer": 2,
+    "sprite": null
+  },
+  {
+    "id": 51,
+    "category": "monster",
+    "question": "How much HP does Jakk Xmas have?",
+    "choices": [
+      "1,901",
+      "46,255",
+      "149,427",
+      "4,644"
+    ],
+    "answer": 0,
+    "sprite": "/images/monsters/1244.gif"
+  },
+  {
+    "id": 52,
+    "category": "quest",
+    "question": "In which zone does the quest \"Crafting Deer Horn\" take place?",
+    "choices": [
+      "Louyang Region",
+      "Geffen Tower",
+      "Alberta",
+      "Izlude Academy"
+    ],
+    "answer": 2,
+    "sprite": null
+  },
+  {
+    "id": 53,
+    "category": "quest",
+    "question": "Which quest matches this description: \"Box Delivery At the request of Masha from the Employment Office of the Merchant Guild in Alberta, deliver the Slightly Worn Box to Sheep at the Prontera Blacksmith.\"?",
+    "choices": [
+      "Crafting Welding Mask",
+      "Take a trip to Prontera.",
+      "Neutralizer and Mixture 01",
+      "Finish enjoying Songkran every day"
+    ],
+    "answer": 1,
+    "sprite": null
+  },
+  {
+    "id": 54,
+    "category": "item",
+    "question": "What category does Expedition Ring belong to?",
+    "choices": [
+      "Throwing Weapon",
+      "Material",
+      "Armor",
+      "Pet"
+    ],
+    "answer": 2,
+    "sprite": "/images/items/28540.gif"
+  },
+  {
+    "id": 55,
+    "category": "monster",
+    "question": "What element is Bon Gun?",
+    "choices": [
+      "Neutral",
+      "Undead",
+      "Water",
+      "Fire"
+    ],
+    "answer": 1,
+    "sprite": "/images/monsters/1188.gif"
+  },
+  {
+    "id": 56,
+    "category": "quest",
+    "question": "In which zone does the quest \"Bring the Webfeet to Barbe Q\" take place?",
+    "choices": [
+      "Ayothaya Region",
+      "Comodo",
+      "Geffen Dungeon",
+      "Umbala"
+    ],
+    "answer": 1,
+    "sprite": null
+  },
+  {
+    "id": 57,
+    "category": "quest",
+    "question": "In which zone does the quest \"Geffen: Suspicious Treasure Hunt\" take place?",
+    "choices": [
+      "Glast Heim",
+      "Xmas",
+      "Ayothaya",
+      "Geffen Region"
+    ],
+    "answer": 3,
+    "sprite": null
+  },
+  {
+    "id": 58,
+    "category": "monster",
+    "question": "Which monster drops Spawn?",
+    "choices": [
+      "Piere",
+      "Thara Frog",
+      "Quve",
+      "Wraith"
+    ],
+    "answer": 1,
+    "sprite": "/images/items/908.gif"
+  },
+  {
+    "id": 59,
+    "category": "monster",
+    "question": "What is the base EXP of Deniro?",
+    "choices": [
+      "2,894",
+      "330",
+      "539",
+      "2,592"
+    ],
+    "answer": 2,
+    "sprite": "/images/monsters/1105.gif"
+  },
+  {
+    "id": 60,
+    "category": "lore",
+    "question": "The Clock Tower Manager who orders the self-moving Clocks destroyed is named:",
+    "choices": [
+      "Claude",
+      "Charon",
+      "Serdin",
+      "Nadir"
+    ],
+    "answer": 2,
+    "sprite": null
+  },
+  {
+    "id": 61,
+    "category": "lore",
+    "question": "Which Comodo chef insists the Breath Dumpling is the city's one and only signature dish?",
+    "choices": [
+      "Guk Sunsu",
+      "Komobi",
+      "Matallan Tara",
+      "Mantue Tara"
+    ],
+    "answer": 3,
+    "sprite": null
+  },
+  {
+    "id": 62,
+    "category": "quest",
+    "question": "In which zone does the quest \"[Elemental Change - Ground]\" take place?",
+    "choices": [
+      "Morocc Ruins",
+      "Morocc",
+      "Geffen Dungeon",
+      "Izlude Academy"
+    ],
+    "answer": 3,
+    "sprite": null
+  },
+  {
+    "id": 63,
+    "category": "item",
+    "question": "What does the in-game description of Mask Cube say?",
+    "choices": [
+      "A gloomy mask made in the shape of the face of the monster Neflphim.",
+      "As if possessing vast knowledge beyond human limits.",
+      "Decorative wings made to commemorate the day of conveying love.",
+      "Arrow of Blind woven from shadow itself."
+    ],
+    "answer": 0,
+    "sprite": "/images/items/5475.gif"
+  },
+  {
+    "id": 64,
+    "category": "lore",
+    "question": "Which university student researching on Byalan Island asks for your help?",
+    "choices": [
+      "Student Helden",
+      "Reno",
+      "Honest",
+      "Serdin"
+    ],
+    "answer": 0,
+    "sprite": null
+  },
+  {
+    "id": 65,
+    "category": "item",
+    "question": "What does the in-game description of Armor +14 Refinement Guarantee Ticket say?",
+    "choices": [
+      "Enhances the equipped armor to refine level 14. -Limited to 1 use-",
+      "A Polishing Agent that sharpens Weapon.",
+      "Deviling are throwing a party.",
+      "Stone that increases Defense."
+    ],
+    "answer": 0,
+    "sprite": "/images/items/6877.gif"
+  },
+  {
+    "id": 66,
+    "category": "monster",
+    "question": "Which of these monsters has the highest HP?",
+    "choices": [
+      "Parasite",
+      "Garm",
+      "Dark Priest",
+      "Petit"
+    ],
+    "answer": 1,
+    "sprite": null
+  },
+  {
+    "id": 67,
+    "category": "quest",
+    "question": "Which quest matches this description: \"A child named Olli in Izlude will craft a [Light Bulb Headband]5034 if you bring 1 [Headband]2210 and 20 [Glass Bead]746.\"?",
+    "choices": [
+      "Smokie 20",
+      "Crafting Light Bulb Headband",
+      "[Elemental Change - Water]",
+      "Supplies Have Arrived! - 1"
+    ],
+    "answer": 1,
+    "sprite": null
+  },
+  {
+    "id": 68,
+    "category": "lore",
+    "question": "Which Comodo chef insists Special Dragon Beard Noodles is the city's signature dish?",
+    "choices": [
+      "Guk Sunsu",
+      "Komobi",
+      "Barbe Q",
+      "Mantue Tara"
+    ],
+    "answer": 0,
+    "sprite": null
+  },
+  {
+    "id": 69,
+    "category": "item",
+    "question": "What category does WoE Blue Potion belong to?",
+    "choices": [
+      "Refine Ticket",
+      "Consumable",
+      "Material",
+      "Event Item"
+    ],
+    "answer": 1,
+    "sprite": "/images/items/11549.gif"
+  },
+  {
+    "id": 70,
+    "category": "monster",
+    "question": "Which of these monsters has the highest HP?",
+    "choices": [
+      "Phen",
+      "Aster",
+      "Rotar Zairo",
+      "Christmas Poring"
+    ],
+    "answer": 3,
+    "sprite": null
+  },
+  {
+    "id": 71,
+    "category": "item",
+    "question": "What does the in-game description of Deviruchi Egg Lv.1 say?",
+    "choices": [
+      "A cute doll shaped like a pink dolphin.",
+      "Although it feels like sunglasses when touched by hand, it cannot be seen.",
+      "Physical Damage to All Grades of Enemies +1%, MATK +1%.",
+      "Sleeveless long coat with a stylish silhouette."
+    ],
+    "answer": 2,
+    "sprite": "/images/items/313626.gif"
+  },
+  {
+    "id": 72,
+    "category": "monster",
+    "question": "How much HP does Stalactic Golem have?",
+    "choices": [
+      "50,000",
+      "11,996",
+      "8,673",
+      "7,183"
+    ],
+    "answer": 3,
+    "sprite": "/images/monsters/1278.gif"
+  },
+  {
+    "id": 73,
+    "category": "item",
+    "question": "What does the in-game description of Familiar Card say?",
+    "choices": [
+      "On physical attack, 5% chance to inflict Blind.",
+      "Reward for Reaching 50,000 SNS Followers",
+      "Critical Damage +10%.",
+      "Chicks that change color with the power of love."
+    ],
+    "answer": 0,
+    "sprite": "/images/items/4020.gif"
+  },
+  {
+    "id": 74,
+    "category": "quest",
+    "question": "In which zone does the quest \"Deliver the Food to Loruta\" take place?",
+    "choices": [
+      "Morocc Ruins",
+      "Ayothaya",
+      "Comodo",
+      "Mjolnir Mountains"
+    ],
+    "answer": 2,
+    "sprite": null
+  },
+  {
+    "id": 75,
+    "category": "monster",
+    "question": "Which of these items can drop from Roda Frog?",
+    "choices": [
+      "Agi Up Potion 10ea Box",
+      "[Costume] Goblin Leader Mask",
+      "Fly Wing",
+      "Carrot"
+    ],
+    "answer": 2,
+    "sprite": "/images/monsters/1012.gif"
+  },
+  {
+    "id": 76,
+    "category": "lore",
+    "question": "Who wants to explore the Underwater Shrine but complains that Strouf and Merman keep getting in the way?",
+    "choices": [
+      "Student Helden",
+      "Claude",
+      "Nadir",
+      "Maxim Leader"
+    ],
+    "answer": 3,
+    "sprite": null
+  },
+  {
+    "id": 77,
+    "category": "item",
+    "question": "Which item matches this description: \"Recovery tonic finely ground from White Herb. Recovers about 325 HP.\"?",
+    "choices": [
+      "Arrow",
+      "Weapon +10 Refinement Guarantee Ticket",
+      "[NFS] White Potion",
+      "Rideword Card"
+    ],
+    "answer": 2,
+    "sprite": "/images/items/11565.gif"
+  },
+  {
+    "id": 78,
+    "category": "item",
+    "question": "Which item matches this description: \"Recovers 5 SP when defeating Demi-Human Monsters with melee physical attacks.\"?",
+    "choices": [
+      "Phendark Card",
+      "Smokie Card",
+      "Level 5 Heal",
+      "Unripe Apple"
+    ],
+    "answer": 0,
+    "sprite": "/images/items/4329.gif"
+  },
+  {
+    "id": 79,
+    "category": "monster",
+    "question": "What element is Dustiness?",
+    "choices": [
+      "Holy",
+      "Poison",
+      "Wind",
+      "Water"
+    ],
+    "answer": 2,
+    "sprite": "/images/monsters/1114.gif"
+  },
+  {
+    "id": 80,
+    "category": "quest",
+    "question": "In which zone does the quest \"50 Rotten Bandage, 1 Alcohol\" take place?",
+    "choices": [
+      "Alberta",
+      "Gonryun Dungeon",
+      "Payon",
+      "Geffen Dungeon"
+    ],
+    "answer": 2,
+    "sprite": null
+  },
+  {
+    "id": 81,
+    "category": "item",
+    "question": "What category does Book belong to?",
+    "choices": [
+      "Enchantment",
+      "Weapon",
+      "Costume",
+      "Special"
+    ],
+    "answer": 1,
+    "sprite": "/images/items/540106.gif"
+  },
+  {
+    "id": 82,
+    "category": "lore",
+    "question": "At the Morocc pyramid oasis, which of the Old Scholar's assistants investigates the connection to the Sphinx?",
+    "choices": [
+      "Rybio",
+      "Claude",
+      "Reno",
+      "Honest"
+    ],
+    "answer": 3,
+    "sprite": null
+  },
+  {
+    "id": 83,
+    "category": "quest",
+    "question": "Which quest matches this description: \"8 Jellopy, 8 Soft Fluff You were stopped by a strange Old Wizard. Collect 8 [Jellopy]909 and 8 [Soft Fluff]914. Jellopy can be obtained from Poring, and Soft Fluff from Fabre.\"?",
+    "choices": [
+      "1 Flame Heart, 1 Headband",
+      "Geffen: Retired Wizard",
+      "Results of the Research",
+      "Forest Keeper’s Roulette (3)"
+    ],
+    "answer": 1,
+    "sprite": null
+  },
+  {
+    "id": 84,
+    "category": "lore",
+    "question": "Which little boy in Geffen thinks Petite (Flying) are too violent and asks you to find a gentler one instead?",
+    "choices": [
+      "Little Petite Boy",
+      "Reno",
+      "Happy Dong Dong",
+      "Honest"
+    ],
+    "answer": 0,
+    "sprite": null
+  },
+  {
+    "id": 85,
+    "category": "monster",
+    "question": "What race is Argos?",
+    "choices": [
+      "Plant",
+      "Insect",
+      "Angel",
+      "Undead"
+    ],
+    "answer": 1,
+    "sprite": "/images/monsters/1100.gif"
+  },
+  {
+    "id": 86,
+    "category": "quest",
+    "question": "Which quest matches this description: \"To learn [Elemental Change - Fire], collect 20 [Red Blood]990, 1 [Payon Solution]1089, and 1 [Morroc Solution]1088, then return to Mishuna.\"?",
+    "choices": [
+      "Umbala: Face-to-Face",
+      "Learn the Utan Tribe Language",
+      "[Elemental Change - Fire]",
+      "To Dietmar"
+    ],
+    "answer": 2,
+    "sprite": null
+  },
+  {
+    "id": 87,
+    "category": "quest",
+    "question": "In which zone does the quest \"Man with Fox Mask\" take place?",
+    "choices": [
+      "Xmas",
+      "Payon Forest",
+      "Glast Heim Castle",
+      "Thanatos Tower"
+    ],
+    "answer": 1,
+    "sprite": null
+  },
+  {
+    "id": 88,
+    "category": "item",
+    "question": "What category does Pantie belong to?",
+    "choices": [
+      "Armor",
+      "Material",
+      "Card",
+      "Throwing Weapon"
+    ],
+    "answer": 0,
+    "sprite": "/images/items/2339.gif"
+  },
+  {
+    "id": 89,
+    "category": "lore",
+    "question": "In the underground prison of Glast Heim, who asks for your help against the demons despite Charon's assistance?",
+    "choices": [
+      "Claude",
+      "Serdin",
+      "Nadir",
+      "Honest"
+    ],
+    "answer": 2,
+    "sprite": null
+  },
+  {
+    "id": 90,
+    "category": "lore",
+    "question": "Which instructor at Izlude Academy promises to let you experience a Status Ailment to make up for a lunchbox mix-up?",
+    "choices": [
+      "Mishuna",
+      "Instructor Argos",
+      "Instructor Fontes",
+      "Instructor Minz"
+    ],
+    "answer": 3,
+    "sprite": null
+  },
+  {
+    "id": 91,
+    "category": "quest",
+    "question": "In which zone does the quest \"A Message from Lumin\" take place?",
+    "choices": [
+      "Xmas",
+      "Niflheim",
+      "Morocc",
+      "Payon"
+    ],
+    "answer": 3,
+    "sprite": null
+  },
+  {
+    "id": 92,
+    "category": "monster",
+    "question": "What race is Khalitzburg?",
+    "choices": [
+      "Undead",
+      "Animal",
+      "Dragon",
+      "Fish"
+    ],
+    "answer": 0,
+    "sprite": "/images/monsters/1132.gif"
+  },
+  {
+    "id": 93,
+    "category": "item",
+    "question": "What does the in-game description of [Costume] Gothic Hair Tie [Bound] say?",
+    "choices": [
+      "Use freshly roasted sweet potatoes that are in season.",
+      "A sweet pancake crafted with the delicate touch of the Lady from Lutie. A taste that lifts the spirit.",
+      "A great headband in gothic lace.",
+      "Charming hat adorned with cute puppy ears."
+    ],
+    "answer": 2,
+    "sprite": "/images/items/401202.gif"
+  },
+  {
+    "id": 94,
+    "category": "item",
+    "question": "Which item matches this description: \"Massive toast filled with meat, fruit, and cheese—about three times the usual amount. Despite the abundance, the taste remains uncertain.\"?",
+    "choices": [
+      "Special Toast",
+      "[Costume] Yellow Heart Hat",
+      "[Costume] New Year Halo",
+      "[Event] Kafra Storage Bell"
+    ],
+    "answer": 0,
+    "sprite": "/images/items/12093.gif"
+  },
+  {
+    "id": 95,
+    "category": "lore",
+    "question": "Which instructor at Izlude Academy asks you to hold your breath for 20 seconds, then talk to them?",
+    "choices": [
+      "Instructor Argos",
+      "Mishuna",
+      "Instructor Minz",
+      "Instructor Fontes"
+    ],
+    "answer": 0,
+    "sprite": null
+  },
+  {
+    "id": 96,
+    "category": "monster",
+    "question": "Which monster drops Grand Circlet?",
+    "choices": [
+      "Heater",
+      "Marin",
+      "Orc Lord",
+      "Golem"
+    ],
+    "answer": 2,
+    "sprite": "/images/items/5007.gif"
+  },
+  {
+    "id": 97,
+    "category": "lore",
+    "question": "Which instructor at Izlude Academy sends you to defeat Magnolia and Metaller in the Southwest Prontera Field as a training request?",
+    "choices": [
+      "Instructor Argos",
+      "Instructor Minz",
+      "Instructor Fontes",
+      "Mishuna"
+    ],
+    "answer": 2,
+    "sprite": null
+  },
+  {
+    "id": 98,
+    "category": "quest",
+    "question": "In which zone does the quest \"Dragon City: Lookout\" take place?",
+    "choices": [
+      "Louyang",
+      "Izlude Academy",
+      "Geffen Tower",
+      "Ayothaya Region"
+    ],
+    "answer": 0,
+    "sprite": null
+  },
+  {
+    "id": 99,
+    "category": "item",
+    "question": "What category does Costume Straight Pony Purple belong to?",
+    "choices": [
+      "Material",
+      "Ammo",
+      "Costume",
+      "Armor"
+    ],
+    "answer": 2,
+    "sprite": "/images/items/20359.gif"
+  },
+  {
+    "id": 100,
+    "category": "item",
+    "question": "Which item matches this description: \"This headdress is modeled after the shining stars in the night sky. Wearing it and making a wish will bring good luck!\"?",
+    "choices": [
+      "Ahura Mazdah",
+      "Costume Shiny Small Star",
+      "Veteran Guild Member Enchant Box",
+      "Marduk Card"
+    ],
+    "answer": 1,
+    "sprite": "/images/items/19777.gif"
+  }
+]
