@@ -271,6 +271,12 @@
 <priority>0.6</priority>
 </url>
 <url>
+<loc>https://midgardhub.com/lore/MxnjpnvHLjU</loc>
+<lastmod>2026-09-13T22:00:36.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
 <loc>https://midgardhub.com/lore/5TTm62bG1wA</loc>
 <lastmod>2026-09-12T22:00:10.000Z</lastmod>
 <changefreq>monthly</changefreq>
@@ -351,12 +357,6 @@
 <url>
 <loc>https://midgardhub.com/lore/jM7uBvSd66k</loc>
 <lastmod>2026-09-05T22:03:33.000Z</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.7</priority>
-</url>
-<url>
-<loc>https://midgardhub.com/lore/oBq67neWoa4</loc>
-<lastmod>2026-09-05T08:15:15.000Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
