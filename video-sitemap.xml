@@ -120,6 +120,19 @@
     </video:video>
   </url>
   <url>
+    <loc>https://midgardhub.com/wow-forever/priest/dark-inspiration-bug-shadow-priest</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/TUbzHRwlBIs/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Is Dark Inspiration Bugged? Shadow Priest Talent Test in WoW Forever</video:title>
+      <video:description>Is Dark Inspiration bugged in World of Warcraft: Forever (WoW Forever)? It looks like it. With Dark Inspiration at 2/5, the Shadow Priest talent should give 6% Spirit for 10 seconds after Mind Blast or a fully channeled Mind Flay. Ryan Geldun's test shows Mind Blast giving the correct 6%, but a fully channeled Mind Flay giving 15%, the 5/5 value. Recorded in November 2026. Ryan has reported it to Blizzard; Blizzard has not confirmed whether it is intended.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/TUbzHRwlBIs</video:player_loc>
+      <video:duration>135</video:duration>
+      <video:publication_date>2026-11-22T13:15:52Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:uploader info="https://www.youtube.com/@RyanGeldun">Ryan Geldun</video:uploader>
+    </video:video>
+  </url>
+  <url>
     <loc>https://midgardhub.com/wow-forever/priest/solo-elite-quests</loc>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/IclpAUTSEzw/maxresdefault.jpg</video:thumbnail_loc>
@@ -167,6 +180,32 @@
       <video:player_loc>https://www.youtube.com/embed/_lExOmMyowA</video:player_loc>
       <video:duration>849</video:duration>
       <video:publication_date>2026-11-19T23:00:16Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:uploader info="https://www.youtube.com/@RyanGeldun">Ryan Geldun</video:uploader>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://midgardhub.com/wow-forever/priest/riverglades-gold-cloth-farm-shadow-priest</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/e3373N3IA1I/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Riverglades Gold and Cloth Farm as a Shadow Priest in WoW Forever (Silk and Mageweave)</video:title>
+      <video:description>Riverglades is one of the best gold and cloth farms for a Priest in World of Warcraft: Forever (WoW Forever). Ryan Geldun farms Sunnyglade, a Twilight camp in Riverglades, on a level 45 Shadow Priest: the Twilight humanoids drop Silk Cloth, Mageweave Cloth, raw silver and green items, and almost everything else in the zone is a beast you can skin. He also shows the same farm as a Discipline Priest. Recorded in November 2026.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/e3373N3IA1I</video:player_loc>
+      <video:duration>940</video:duration>
+      <video:publication_date>2026-11-22T23:00:26Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:uploader info="https://www.youtube.com/@RyanGeldun">Ryan Geldun</video:uploader>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://midgardhub.com/wow-forever/priest/shadow-priest-gold-farm-herbalism</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/7p00QR75aHc/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Shadow Priest Gold Farm for Herbalists in WoW Forever (Ghost Mushrooms, Level 45+)</video:title>
+      <video:description>This is a Shadow Priest gold farm for level 45+ in World of Warcraft: Forever (WoW Forever), and the best one if you have Herbalism: Skulk Rock, a cave in The Hinterlands. Ryan Geldun farms it solo on a level 48 Shadow Priest. The cave has up to 3 Ghost Mushrooms spawned at a time, and they sell for about 30 silver each. The sludges inside are easy to kill and drop Scum Covered Bags, silver and grey items. Ryan made about 100 gold here, and it paid for his Alchemy from Skinning to 277 and Transmute: Arcanite. Recorded in November 2026.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/7p00QR75aHc</video:player_loc>
+      <video:duration>458</video:duration>
+      <video:publication_date>2026-11-23T23:00:34Z</video:publication_date>
       <video:family_friendly>yes</video:family_friendly>
       <video:uploader info="https://www.youtube.com/@RyanGeldun">Ryan Geldun</video:uploader>
     </video:video>
