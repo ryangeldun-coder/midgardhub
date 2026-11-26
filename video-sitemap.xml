@@ -133,6 +133,19 @@
     </video:video>
   </url>
   <url>
+    <loc>https://midgardhub.com/wow-forever/priest/level-50-talents-pvp-gear</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/NNVc9BQQCvQ/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Level 50 Priest Talents and PvP Gear Plan in WoW Forever (Disc and Shadow)</video:title>
+      <video:description>Level 50 Priest checkpoint in World of Warcraft: Forever (WoW Forever): Ryan Geldun stops one kill before level 50 and shows his Discipline (31/2/7) and Shadow (4/0/36) talents, his current gear, and his PvP plan. In WoW Forever the level 55 PvP sets can be bought with honor and battleground marks, without PvP rank, so Ryan stays at 49 to farm honor in the 40-49 bracket. Recorded in November 2026.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/NNVc9BQQCvQ</video:player_loc>
+      <video:duration>539</video:duration>
+      <video:publication_date>2026-11-24T23:10:53Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:uploader info="https://www.youtube.com/@RyanGeldun">Ryan Geldun</video:uploader>
+    </video:video>
+  </url>
+  <url>
     <loc>https://midgardhub.com/wow-forever/priest/solo-elite-quests</loc>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/IclpAUTSEzw/maxresdefault.jpg</video:thumbnail_loc>
@@ -219,6 +232,19 @@
       <video:player_loc>https://www.youtube.com/embed/ZAkhqnJoP6w</video:player_loc>
       <video:duration>1024</video:duration>
       <video:publication_date>2026-11-11T23:00:09Z</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:uploader info="https://www.youtube.com/@RyanGeldun">Ryan Geldun</video:uploader>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://midgardhub.com/wow-forever/priest/disc-priest-pvp-healing-arathi-basin</loc>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/TbuM8CtGu5w/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Disc Priest PvP Healing in WoW Forever (Arathi Basin Gameplay and Tips)</video:title>
+      <video:description>Discipline Priest PvP healing in World of Warcraft: Forever (WoW Forever): Ryan Geldun plays a full Arathi Basin battleground at level 49 as a Disc Priest and talks through what works: shielding before the clash, Shadow Word: Pain pressure, Shadow Word: Death for Spirit Tap, mana management, and why a healer should stay with the team on the flags. His team was losing early, turned it around to 4 bases to 1 and won. Recorded in November 2026.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/TbuM8CtGu5w</video:player_loc>
+      <video:duration>1178</video:duration>
+      <video:publication_date>2026-11-25T23:00:34Z</video:publication_date>
       <video:family_friendly>yes</video:family_friendly>
       <video:uploader info="https://www.youtube.com/@RyanGeldun">Ryan Geldun</video:uploader>
     </video:video>

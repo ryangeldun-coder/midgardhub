@@ -272,7 +272,7 @@
 </url>
 <url>
 <loc>https://midgardhub.com/wow-forever/priest</loc>
-<lastmod>2026-11-23T23:00:34.000Z</lastmod>
+<lastmod>2026-11-25T23:00:34.000Z</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.8</priority>
 </url>
@@ -331,6 +331,12 @@
 <priority>0.7</priority>
 </url>
 <url>
+<loc>https://midgardhub.com/wow-forever/priest/level-50-talents-pvp-gear</loc>
+<lastmod>2026-11-24T23:10:53.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
 <loc>https://midgardhub.com/wow-forever/priest/solo-elite-quests</loc>
 <lastmod>2026-11-18T23:00:29.000Z</lastmod>
 <changefreq>monthly</changefreq>
@@ -369,6 +375,12 @@
 <url>
 <loc>https://midgardhub.com/wow-forever/priest/priest-pvp-warsong-gulch</loc>
 <lastmod>2026-11-11T23:00:09.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://midgardhub.com/wow-forever/priest/disc-priest-pvp-healing-arathi-basin</loc>
+<lastmod>2026-11-25T23:00:34.000Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>

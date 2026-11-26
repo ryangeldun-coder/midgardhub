@@ -71,6 +71,7 @@ Ryan Geldun's video guide series for playing a Priest in World of Warcraft: Fore
 - Shadow Priest or Warlock in WoW Forever?: https://midgardhub.com/wow-forever/priest/shadow-priest-vs-warlock
 - Level 40 Priest Talents in WoW Forever: Discipline and Shadow Builds: https://midgardhub.com/wow-forever/priest/level-40-talents-discipline-shadow
 - Is Dark Inspiration Bugged? Shadow Priest Talent Test in WoW Forever: https://midgardhub.com/wow-forever/priest/dark-inspiration-bug-shadow-priest
+- Level 50 Priest Talents and PvP Gear Plan in WoW Forever (Disc and Shadow): https://midgardhub.com/wow-forever/priest/level-50-talents-pvp-gear
 - Can a Priest Solo Elite Quests in WoW Forever?: https://midgardhub.com/wow-forever/priest/solo-elite-quests
 - Can a Priest Solo Farm Gold in WoW Forever? (Silk Cloth Spot): https://midgardhub.com/wow-forever/priest/solo-gold-farm-silk-cloth
 - Early Gold Farm Spot in WoW Forever: https://midgardhub.com/wow-forever/priest/early-gold-farm-spot
@@ -78,6 +79,7 @@ Ryan Geldun's video guide series for playing a Priest in World of Warcraft: Fore
 - Riverglades Gold and Cloth Farm as a Shadow Priest in WoW Forever (Silk and Mageweave): https://midgardhub.com/wow-forever/priest/riverglades-gold-cloth-farm-shadow-priest
 - Shadow Priest Gold Farm for Herbalists in WoW Forever (Ghost Mushrooms, Level 45+): https://midgardhub.com/wow-forever/priest/shadow-priest-gold-farm-herbalism
 - Can a Priest PvP in WoW Forever? (Warsong Gulch): https://midgardhub.com/wow-forever/priest/priest-pvp-warsong-gulch
+- Disc Priest PvP Healing in WoW Forever (Arathi Basin Gameplay and Tips): https://midgardhub.com/wow-forever/priest/disc-priest-pvp-healing-arathi-basin
 
 Topics: Priest for new players, Shadow and Discipline leveling, Priest AoE leveling, healing dungeons as a Priest, Disc Priest keybinds and healing without addons, level 40 Discipline and Shadow talent builds with dual spec, Shadow Priest vs Warlock, Priest PvP in Warsong Gulch, solo play and gold farming as a Priest.
 <!-- wow-forever-priest:end -->
