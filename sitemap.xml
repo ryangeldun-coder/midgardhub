@@ -272,7 +272,7 @@
 </url>
 <url>
 <loc>https://midgardhub.com/wow-forever/priest</loc>
-<lastmod>2026-11-25T23:00:34.000Z</lastmod>
+<lastmod>2026-11-26T23:00:07.000Z</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.8</priority>
 </url>
@@ -309,6 +309,12 @@
 <url>
 <loc>https://midgardhub.com/wow-forever/priest/disc-priest-keybinds-no-addons</loc>
 <lastmod>2026-11-16T23:15:07.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://midgardhub.com/wow-forever/priest/healing-sunken-temple-disc-priest</loc>
+<lastmod>2026-11-26T23:00:07.000Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
